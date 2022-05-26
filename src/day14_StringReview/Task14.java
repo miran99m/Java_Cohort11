@@ -15,7 +15,7 @@ package day14_StringReview;
 //		                    output:
 //		                        Techcircle School
 //HELLO
-		String fName = "MohAMMedjkjhljd";
+		String fName = "mohaMMEd";
 		String lName = "MIRAN";
 
 		String modifyFirst = fName.toUpperCase().charAt(0) + fName.toLowerCase().substring(1);
